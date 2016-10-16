@@ -3,7 +3,6 @@
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
-        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -34,12 +33,10 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstAttribute="trailingMargin" secondItem="PNH-wc-Oh7" secondAttribute="trailing" constant="69" id="12I-Ku-cDk"/>
-                            <constraint firstItem="PNH-wc-Oh7" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="68" id="5qK-qI-hIB"/>
-                            <constraint firstItem="DiC-h9-a4G" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="-46.5" id="Egk-Tq-m7M"/>
-                            <constraint firstItem="DiC-h9-a4G" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Po5-3I-PkV"/>
-                            <constraint firstItem="PNH-wc-Oh7" firstAttribute="top" secondItem="DiC-h9-a4G" secondAttribute="bottom" constant="16" id="cZJ-bN-LmJ"/>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="PNH-wc-Oh7" secondAttribute="bottom" constant="319" id="ewq-EP-bah"/>
+                            <constraint firstItem="DiC-h9-a4G" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Ory-Cm-NE3"/>
+                            <constraint firstItem="PNH-wc-Oh7" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Q9W-33-E64"/>
+                            <constraint firstItem="DiC-h9-a4G" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="-50" id="cxo-Yj-J6y"/>
+                            <constraint firstItem="PNH-wc-Oh7" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="50" id="pNd-yh-L87"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Main View" id="SB1-Jd-6JD"/>

@@ -9,6 +9,8 @@ Completion block for
 and
 ```objc
 [self.navigationController popViewControllerAnimated:(BOOL)];
+[self.navigationController popToViewController:(nonnull UIViewController *) animated:(BOOL)];
+[self.navigationController popToRootViewControllerAnimated:(BOOL)];
 ```
 
 ## Usages
@@ -25,6 +27,14 @@ Add `UINavigationController+JNAPushPopCompletionBlock.h` and `UINavigationContro
 }];
 
 [self.navigationController popViewControllerAnimated:YES completion:^{
+    // Add code here.
+}];
+
+[self.navigationController popToViewController:viewController animated:YES completion:^{
+        // Add code here.
+}];
+
+[self.navigationController popToRootViewControllerAnimated:YES completion:^{
     // Add code here.
 }];
 ~~~
