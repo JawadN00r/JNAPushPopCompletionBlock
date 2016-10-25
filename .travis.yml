@@ -1,4 +1,4 @@
 language: objective-c
 osx_image: xcode8
 xcode_project: DemoProject_Objective-C/JNAPushPopCompletionBlockExample.xcodeproj
-xcode_scheme: DemoProject_Objective-C/JNAPushPopCompletionBlockExampleTests
+xcode_scheme: JNAPushPopCompletionBlockExample
