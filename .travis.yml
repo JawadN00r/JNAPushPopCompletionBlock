@@ -1,5 +1,5 @@
 language: objective-c
-
+osx_image: xcode8
 script:
     - cd DemoProject_Objective-C/
     - xcodebuild CODE_SIGNING_REQUIRED=NO
