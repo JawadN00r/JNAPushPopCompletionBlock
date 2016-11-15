@@ -46,4 +46,5 @@ Add `UINavigationController+JNAPushPopCompletionBlock.h` and `UINavigationContro
 
 License
 ---
+
 JNAPushPopCompletionBlock is available under MIT license. See the LICENSE file for more info.
