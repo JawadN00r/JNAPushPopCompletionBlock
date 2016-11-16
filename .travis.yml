@@ -1,4 +1,6 @@
 language: objective-c
 osx_image: xcode8
-xcode_project: DemoProject_Objective-C/JNAPushPopCompletionBlockExample.xcodeproj
-xcode_scheme: JNAPushPopCompletionBlockExample
+script:
+    - cd DemoProject_Objective-C/
+    - xcodebuild CODE_SIGNING_REQUIRED=NO
+    
