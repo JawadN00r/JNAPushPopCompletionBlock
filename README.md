@@ -1,4 +1,5 @@
 # JNAPushPopCompletionBlock
+[![codebeat badge](https://codebeat.co/badges/401eed61-775d-4a34-a93e-9b9a315c6814)](https://codebeat.co/projects/github-com-jawadasif-jnapushpopcompletionblock)
 [![Build Status](https://travis-ci.org/jawadasif/JNAPushPopCompletionBlock.svg?branch=master)](https://travis-ci.org/jawadasif/JNAPushPopCompletionBlock)
 [![Cocoapod](https://img.shields.io/badge/pod-0.0.1-green.svg)](https://cocoapods.org/?q=JNAPushPopCompletionBlock)
 [![Platform](https://img.shields.io/badge/platform-ios-green.svg)](https://en.wikipedia.org/wiki/IOS)
