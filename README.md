@@ -1,8 +1,4 @@
 # JNAPushPopCompletionBlock
-<br/>
-<br/>
-<br/>
-<br/>
 [![Build Status](https://travis-ci.org/jawadasif/JNAPushPopCompletionBlock.svg?branch=master)](https://travis-ci.org/jawadasif/JNAPushPopCompletionBlock)
 [![Cocoapod](https://img.shields.io/badge/pod-0.0.1-green.svg)](https://cocoapods.org/?q=JNAPushPopCompletionBlock)
 [![Platform](https://img.shields.io/badge/platform-ios-green.svg)](https://en.wikipedia.org/wiki/IOS)
@@ -31,7 +27,7 @@ pod 'JNAPushPopCompletionBlock'
 Add 
 
 + [UINavigationController+JNAPushPopCompletionBlock.h](https://github.com/jawadasif/JNAPushPopCompletionBlock/blob/master/JNAPushPopCompletionBlock_Objective-C/UINavigationController%2BJNAPushPopCompletionBlock.h)
- + [UINavigationController+JNAPushPopCompletionBlock.m](https://github.com/jawadasif/JNAPushPopCompletionBlock/blob/master/JNAPushPopCompletionBlock_Objective-C/UINavigationController%2BJNAPushPopCompletionBlock.m)
++ [UINavigationController+JNAPushPopCompletionBlock.m](https://github.com/jawadasif/JNAPushPopCompletionBlock/blob/master/JNAPushPopCompletionBlock_Objective-C/UINavigationController%2BJNAPushPopCompletionBlock.m)
 
 to your project.
 
