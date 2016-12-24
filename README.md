@@ -1,5 +1,12 @@
 # JNAPushPopCompletionBlock
-
+<br/>
+<br/>
+<br/>
+<br/>
+[![Build Status](https://travis-ci.org/jawadasif/JNAPushPopCompletionBlock.svg?branch=master)](https://travis-ci.org/jawadasif/JNAPushPopCompletionBlock)
+[![Cocoapod](https://img.shields.io/badge/pod-0.0.1-green.svg)](https://cocoapods.org/?q=JNAPushPopCompletionBlock)
+[![Platform](https://img.shields.io/badge/platform-ios-green.svg)](https://en.wikipedia.org/wiki/IOS)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 ## Synopsis
 
 Completion block for 
@@ -13,10 +20,24 @@ and
 [self.navigationController popToRootViewControllerAnimated:(BOOL)];
 ```
 
-## Usages
-Check out the [demo app](https://github.com/jawadasif/JNAPushPopCompletionBlock/tree/master/DemoProject_Objective-C) for an example.
+##Installation
+###Using Cocoapod
+```ruby
+pod 'JNAPushPopCompletionBlock'
+```
 
-Add `UINavigationController+JNAPushPopCompletionBlock.h` and `UINavigationController+JNAPushPopCompletionBlock.m` to your project.
+###Manual 
+
+Add 
+
++ [UINavigationController+JNAPushPopCompletionBlock.h](https://github.com/jawadasif/JNAPushPopCompletionBlock/blob/master/JNAPushPopCompletionBlock_Objective-C/UINavigationController%2BJNAPushPopCompletionBlock.h)
+ + [UINavigationController+JNAPushPopCompletionBlock.m](https://github.com/jawadasif/JNAPushPopCompletionBlock/blob/master/JNAPushPopCompletionBlock_Objective-C/UINavigationController%2BJNAPushPopCompletionBlock.m)
+
+to your project.
+
+##Usages
+
+Check out the [demo app](https://github.com/jawadasif/JNAPushPopCompletionBlock/tree/master/DemoProject_Objective-C) for an example.
 
 ~~~objective-c
 #import "UINavigationController+JNAPushPopCompletionBlock.h"
@@ -38,11 +59,6 @@ Add `UINavigationController+JNAPushPopCompletionBlock.h` and `UINavigationContro
     // Add code here.
 }];
 ~~~
-
-## Build status
-
-[![Build Status](https://travis-ci.org/ogt/boxchareditor.png?branch=gh-pages)](https://travis-ci.org/jawadasif/JNAPushPopCompletionBlock)
-
 
 License
 ---
